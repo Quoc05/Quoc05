@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Van Quoc 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/quoc-nguyen-258a73355)
 [![GitHub](https://img.shields.io/badge/GitHub-Quoc05-black?style=flat&logo=github)](https://github.com/Quoc05)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:nguyenvanquoclt1@gmail.com)
 
